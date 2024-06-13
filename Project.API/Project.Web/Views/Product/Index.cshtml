@@ -1,0 +1,12 @@
+﻿@model IEnumerable<Product>
+
+<h1>Products</h1>
+
+<a href="/Product/Create">Add New Product</a>
+
+<ul>
+    @foreach (var product in Model)
+    {
+        <li>@product.name</li>
+    }
+</ul>

@@ -1,0 +1,33 @@
+@testapi_minimal_HostAddress = https://localhost:7117
+
+GET {{testapi_minimal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{testapi_minimal_HostAddress}}/weatherforecast
+
+###
+
+DELETE {{testapi_minimal_HostAddress}}/weatherforecast/1
+
+###
+
+GET {{testapi_minimal_HostAddress}}/weatherforecast
+
+###
+
+GET {{testapi_minimal_HostAddress}}/weatherforecast
+
+###
+
+POST {{testapi_minimal_HostAddress}}/weatherforecast
+
+{
+
+}
+###
+
+PUT {{testapi_minimal_HostAddress}}/weatherforecast/{id}
+
+###

@@ -1,0 +1,25 @@
+C:\Users\HaideA01\source\repos\testapi minimal\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HaideA01\source\repos\testapi minimal\bin\Debug\net8.0\appsettings.json
+C:\Users\HaideA01\source\repos\testapi minimal\bin\Debug\net8.0\testapi minimal.exe
+C:\Users\HaideA01\source\repos\testapi minimal\bin\Debug\net8.0\testapi minimal.deps.json
+C:\Users\HaideA01\source\repos\testapi minimal\bin\Debug\net8.0\testapi minimal.runtimeconfig.json
+C:\Users\HaideA01\source\repos\testapi minimal\bin\Debug\net8.0\testapi minimal.dll
+C:\Users\HaideA01\source\repos\testapi minimal\bin\Debug\net8.0\testapi minimal.pdb
+C:\Users\HaideA01\source\repos\testapi minimal\obj\Debug\net8.0\testapi minimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HaideA01\source\repos\testapi minimal\obj\Debug\net8.0\testapi minimal.AssemblyInfoInputs.cache
+C:\Users\HaideA01\source\repos\testapi minimal\obj\Debug\net8.0\testapi minimal.AssemblyInfo.cs
+C:\Users\HaideA01\source\repos\testapi minimal\obj\Debug\net8.0\testapi minimal.csproj.CoreCompileInputs.cache
+C:\Users\HaideA01\source\repos\testapi minimal\obj\Debug\net8.0\testapi minimal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HaideA01\source\repos\testapi minimal\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HaideA01\source\repos\testapi minimal\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HaideA01\source\repos\testapi minimal\obj\Debug\net8.0\staticwebassets\msbuild.testapi minimal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HaideA01\source\repos\testapi minimal\obj\Debug\net8.0\staticwebassets\msbuild.build.testapi minimal.props
+C:\Users\HaideA01\source\repos\testapi minimal\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.testapi minimal.props
+C:\Users\HaideA01\source\repos\testapi minimal\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.testapi minimal.props
+C:\Users\HaideA01\source\repos\testapi minimal\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HaideA01\source\repos\testapi minimal\obj\Debug\net8.0\scopedcss\bundle\testapi minimal.styles.css
+C:\Users\HaideA01\source\repos\testapi minimal\obj\Debug\net8.0\testapi minimal.dll
+C:\Users\HaideA01\source\repos\testapi minimal\obj\Debug\net8.0\refint\testapi minimal.dll
+C:\Users\HaideA01\source\repos\testapi minimal\obj\Debug\net8.0\testapi minimal.pdb
+C:\Users\HaideA01\source\repos\testapi minimal\obj\Debug\net8.0\testapi minimal.genruntimeconfig.cache
+C:\Users\HaideA01\source\repos\testapi minimal\obj\Debug\net8.0\ref\testapi minimal.dll
